@@ -1,16 +1,13 @@
-## Hi there 👋
 
-<!--
-**Chodongdong/Chodongdong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h1 align="center">Hi, I'm 동현 👋</h1>
+  <p align="center">
+    <b>Frontend Developer · Interaction Engineer</b><br/>
+    움직임과 반응성으로 사용자 경험을 설계합니다.
+  </p>
 
-Here are some ideas to get you started:
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Chodongdong&color=blue&style=f
+  lat-square" />
+  </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ---
