@@ -3,8 +3,9 @@
   ## 🚀 Project
   <div align="center">
 
-[![Roami](https://img.shields.io/badge/Roami-4A90D9?style=for-the-badge&logo=vercel&logoColor=white)](https://roami-eight.vercel.app/)
-[![The-julge](https://img.shields.io/badge/Thejulge-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://the-julge-ekxw.vercel.app/)
+  [![Roami](https://img.shields.io/badge/Roami-4A90D9?style=for-the-badge&logo=vercel&logoColor=white)](https://roami-eight.vercel.app/)
+  [![The-julge](https://img.shields.io/badge/The--julge-FF6B6B?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://the-julge-ekxw.vercel.app/)
+  [![Dev-MBTI](https://img.shields.io/badge/Dev--MBTI-8871E5?style=for-the-badge&logo=github&logoColor=white)](https://dev-mbti-nine.vercel.app/)
 
   ---
 
